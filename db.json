@@ -1,0 +1,983 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Alexandre",
+      "lastName": "Novaes",
+      "email": "alexandre.novaes@example.com",
+      "registeredAt": "2025-04-13",
+      "classId": 2
+    },
+    {
+      "id": 2,
+      "firstName": "Camila",
+      "lastName": "Ferreira",
+      "email": "camila.ferreira@example.com",
+      "registeredAt": "2023-04-28",
+      "classId": 1
+    },
+    {
+      "id": 3,
+      "firstName": "Nathan",
+      "lastName": "Moraes",
+      "email": "nathan.moraes@example.com",
+      "registeredAt": "2025-02-03",
+      "classId": 1
+    },
+    {
+      "id": 4,
+      "firstName": "Leandro",
+      "lastName": "Rocha",
+      "email": "leandro.rocha@example.com",
+      "registeredAt": "2025-04-03",
+      "classId": 3
+    },
+    {
+      "id": 5,
+      "firstName": "Isis",
+      "lastName": "Farias",
+      "email": "isis.farias@example.com",
+      "registeredAt": "2025-04-18",
+      "classId": 3
+    },
+    {
+      "id": 6,
+      "firstName": "Alana",
+      "lastName": "Almeida",
+      "email": "alana.almeida@example.com",
+      "registeredAt": "2023-02-02",
+      "classId": 1
+    },
+    {
+      "id": 7,
+      "firstName": "Levi",
+      "lastName": "da Mota",
+      "email": "levi.da mota@example.com",
+      "registeredAt": "2024-06-23",
+      "classId": 3
+    },
+    {
+      "id": 8,
+      "firstName": "Bryan",
+      "lastName": "da Conceição",
+      "email": "bryan.da conceição@example.com",
+      "registeredAt": "2024-04-15",
+      "classId": 2
+    },
+    {
+      "id": 9,
+      "firstName": "Ana Vitória",
+      "lastName": "da Paz",
+      "email": "ana vitória.da paz@example.com",
+      "registeredAt": "2023-06-01",
+      "classId": 2
+    },
+    {
+      "id": 10,
+      "firstName": "Maria",
+      "lastName": "Campos",
+      "email": "maria.campos@example.com",
+      "registeredAt": "2024-02-02",
+      "classId": 2
+    },
+    {
+      "id": 11,
+      "firstName": "Luiz Henrique",
+      "lastName": "Pinto",
+      "email": "luiz henrique.pinto@example.com",
+      "registeredAt": "2023-03-07",
+      "classId": 2
+    },
+    {
+      "id": 12,
+      "firstName": "Murilo",
+      "lastName": "Santos",
+      "email": "murilo.santos@example.com",
+      "registeredAt": "2023-11-27",
+      "classId": 3
+    },
+    {
+      "id": 13,
+      "firstName": "Esther",
+      "lastName": "Pinto",
+      "email": "esther.pinto@example.com",
+      "registeredAt": "2023-04-22",
+      "classId": 3
+    },
+    {
+      "id": 14,
+      "firstName": "Laís",
+      "lastName": "Mendes",
+      "email": "laís.mendes@example.com",
+      "registeredAt": "2023-03-17",
+      "classId": 3
+    },
+    {
+      "id": 15,
+      "firstName": "Ana Carolina",
+      "lastName": "da Paz",
+      "email": "ana carolina.da paz@example.com",
+      "registeredAt": "2023-01-02",
+      "classId": 1
+    },
+    {
+      "id": 16,
+      "firstName": "Davi Lucas",
+      "lastName": "Fogaça",
+      "email": "davi lucas.fogaça@example.com",
+      "registeredAt": "2025-05-10",
+      "classId": 3
+    },
+    {
+      "id": 17,
+      "firstName": "Maitê",
+      "lastName": "Jesus",
+      "email": "maitê.jesus@example.com",
+      "registeredAt": "2025-06-24",
+      "classId": 3
+    },
+    {
+      "id": 18,
+      "firstName": "Heitor",
+      "lastName": "Gonçalves",
+      "email": "heitor.gonçalves@example.com",
+      "registeredAt": "2022-12-07",
+      "classId": 3
+    },
+    {
+      "id": 19,
+      "firstName": "Miguel",
+      "lastName": "Carvalho",
+      "email": "miguel.carvalho@example.com",
+      "registeredAt": "2025-09-28",
+      "classId": 1
+    },
+    {
+      "id": 20,
+      "firstName": "Ana Júlia",
+      "lastName": "Fernandes",
+      "email": "ana júlia.fernandes@example.com",
+      "registeredAt": "2024-04-16",
+      "classId": 3
+    },
+    {
+      "id": 21,
+      "firstName": "Eduarda",
+      "lastName": "Azevedo",
+      "email": "eduarda.azevedo@example.com",
+      "registeredAt": "2024-06-05",
+      "classId": 1
+    },
+    {
+      "id": 22,
+      "firstName": "Sabrina",
+      "lastName": "da Mata",
+      "email": "sabrina.da mata@example.com",
+      "registeredAt": "2024-04-29",
+      "classId": 3
+    },
+    {
+      "id": 23,
+      "firstName": "Joana",
+      "lastName": "Monteiro",
+      "email": "joana.monteiro@example.com",
+      "registeredAt": "2025-03-27",
+      "classId": 1
+    },
+    {
+      "id": 24,
+      "firstName": "Thales",
+      "lastName": "Carvalho",
+      "email": "thales.carvalho@example.com",
+      "registeredAt": "2022-11-24",
+      "classId": 3
+    },
+    {
+      "id": 25,
+      "firstName": "Pietro",
+      "lastName": "Farias",
+      "email": "pietro.farias@example.com",
+      "registeredAt": "2024-07-28",
+      "classId": 1
+    },
+    {
+      "id": 26,
+      "firstName": "Davi Lucca",
+      "lastName": "Almeida",
+      "email": "davi lucca.almeida@example.com",
+      "registeredAt": "2024-01-23",
+      "classId": 2
+    },
+    {
+      "id": 27,
+      "firstName": "Guilherme",
+      "lastName": "Santos",
+      "email": "guilherme.santos@example.com",
+      "registeredAt": "2025-05-08",
+      "classId": 3
+    },
+    {
+      "id": 28,
+      "firstName": "Bianca",
+      "lastName": "da Rosa",
+      "email": "bianca.da rosa@example.com",
+      "registeredAt": "2024-11-28",
+      "classId": 1
+    },
+    {
+      "id": 29,
+      "firstName": "Kaique",
+      "lastName": "Rezende",
+      "email": "kaique.rezende@example.com",
+      "registeredAt": "2024-11-03",
+      "classId": 2
+    },
+    {
+      "id": 30,
+      "firstName": "Pedro Henrique",
+      "lastName": "Azevedo",
+      "email": "pedro henrique.azevedo@example.com",
+      "registeredAt": "2025-03-24",
+      "classId": 3
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Prof. Leonardo Nunes",
+      "email": "das-nevesana-julia@yahoo.com.br",
+      "department": "Matemática"
+    },
+    {
+      "id": 2,
+      "name": "Prof. Davi Luiz Duarte",
+      "email": "nunesaugusto@yahoo.com.br",
+      "department": "História"
+    },
+    {
+      "id": 3,
+      "name": "Prof. Elisa Martins",
+      "email": "ulopes@correia.br",
+      "department": "Biologia"
+    },
+    {
+      "id": 4,
+      "name": "Prof. Maria Sophia Ramos",
+      "email": "rodrigo47@ig.com.br",
+      "department": "Literatura"
+    },
+    {
+      "id": 5,
+      "name": "Prof. Maysa Nunes",
+      "email": "costahelena@hotmail.com",
+      "department": "Computação"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "code": "MAT101",
+      "title": "Cálculo I",
+      "credits": 4
+    },
+    {
+      "id": 2,
+      "code": "HIS201",
+      "title": "História do Brasil",
+      "credits": 3
+    },
+    {
+      "id": 3,
+      "code": "BIO301",
+      "title": "Biologia Geral",
+      "credits": 4
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "courseId": 1,
+      "teacherId": 1,
+      "semester": "2025-1",
+      "room": "A101"
+    },
+    {
+      "id": 2,
+      "courseId": 2,
+      "teacherId": 2,
+      "semester": "2025-1",
+      "room": "B202"
+    },
+    {
+      "id": 3,
+      "courseId": 3,
+      "teacherId": 3,
+      "semester": "2025-1",
+      "room": "C303"
+    }
+  ],
+  "grades": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "classId": 2,
+      "assessment": "Prova",
+      "score": 8.0,
+      "date": "2025-08-30"
+    },
+    {
+      "id": 2,
+      "studentId": 1,
+      "classId": 2,
+      "assessment": "Trabalho",
+      "score": 5.2,
+      "date": "2025-08-21"
+    },
+    {
+      "id": 3,
+      "studentId": 2,
+      "classId": 1,
+      "assessment": "Prova",
+      "score": 10.0,
+      "date": "2025-04-25"
+    },
+    {
+      "id": 4,
+      "studentId": 2,
+      "classId": 1,
+      "assessment": "Trabalho",
+      "score": 8.8,
+      "date": "2025-03-07"
+    },
+    {
+      "id": 5,
+      "studentId": 3,
+      "classId": 1,
+      "assessment": "Prova",
+      "score": 5.6,
+      "date": "2025-07-02"
+    },
+    {
+      "id": 6,
+      "studentId": 3,
+      "classId": 1,
+      "assessment": "Trabalho",
+      "score": 8.9,
+      "date": "2025-07-24"
+    },
+    {
+      "id": 7,
+      "studentId": 4,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 5.4,
+      "date": "2025-02-21"
+    },
+    {
+      "id": 8,
+      "studentId": 4,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 9.1,
+      "date": "2025-06-13"
+    },
+    {
+      "id": 9,
+      "studentId": 5,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 7.6,
+      "date": "2025-08-23"
+    },
+    {
+      "id": 10,
+      "studentId": 5,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 6.0,
+      "date": "2025-07-29"
+    },
+    {
+      "id": 11,
+      "studentId": 6,
+      "classId": 1,
+      "assessment": "Prova",
+      "score": 8.8,
+      "date": "2025-04-25"
+    },
+    {
+      "id": 12,
+      "studentId": 6,
+      "classId": 1,
+      "assessment": "Trabalho",
+      "score": 8.0,
+      "date": "2025-10-16"
+    },
+    {
+      "id": 13,
+      "studentId": 7,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 5.5,
+      "date": "2025-05-17"
+    },
+    {
+      "id": 14,
+      "studentId": 7,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 8.3,
+      "date": "2025-09-19"
+    },
+    {
+      "id": 15,
+      "studentId": 8,
+      "classId": 2,
+      "assessment": "Prova",
+      "score": 8.0,
+      "date": "2025-05-17"
+    },
+    {
+      "id": 16,
+      "studentId": 8,
+      "classId": 2,
+      "assessment": "Trabalho",
+      "score": 7.5,
+      "date": "2025-09-12"
+    },
+    {
+      "id": 17,
+      "studentId": 9,
+      "classId": 2,
+      "assessment": "Prova",
+      "score": 9.9,
+      "date": "2025-01-31"
+    },
+    {
+      "id": 18,
+      "studentId": 9,
+      "classId": 2,
+      "assessment": "Trabalho",
+      "score": 8.5,
+      "date": "2025-08-20"
+    },
+    {
+      "id": 19,
+      "studentId": 10,
+      "classId": 2,
+      "assessment": "Prova",
+      "score": 7.4,
+      "date": "2025-10-28"
+    },
+    {
+      "id": 20,
+      "studentId": 10,
+      "classId": 2,
+      "assessment": "Trabalho",
+      "score": 10.0,
+      "date": "2025-03-07"
+    },
+    {
+      "id": 21,
+      "studentId": 11,
+      "classId": 2,
+      "assessment": "Prova",
+      "score": 5.1,
+      "date": "2025-10-07"
+    },
+    {
+      "id": 22,
+      "studentId": 11,
+      "classId": 2,
+      "assessment": "Trabalho",
+      "score": 6.3,
+      "date": "2025-06-13"
+    },
+    {
+      "id": 23,
+      "studentId": 12,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 8.8,
+      "date": "2025-07-30"
+    },
+    {
+      "id": 24,
+      "studentId": 12,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 6.3,
+      "date": "2025-05-14"
+    },
+    {
+      "id": 25,
+      "studentId": 13,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 6.3,
+      "date": "2025-08-15"
+    },
+    {
+      "id": 26,
+      "studentId": 13,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 5.5,
+      "date": "2025-02-09"
+    },
+    {
+      "id": 27,
+      "studentId": 14,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 6.0,
+      "date": "2025-05-15"
+    },
+    {
+      "id": 28,
+      "studentId": 14,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 9.9,
+      "date": "2025-07-09"
+    },
+    {
+      "id": 29,
+      "studentId": 15,
+      "classId": 1,
+      "assessment": "Prova",
+      "score": 5.3,
+      "date": "2025-03-20"
+    },
+    {
+      "id": 30,
+      "studentId": 15,
+      "classId": 1,
+      "assessment": "Trabalho",
+      "score": 8.3,
+      "date": "2025-04-08"
+    },
+    {
+      "id": 31,
+      "studentId": 16,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 5.7,
+      "date": "2025-01-06"
+    },
+    {
+      "id": 32,
+      "studentId": 16,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 7.2,
+      "date": "2025-05-30"
+    },
+    {
+      "id": 33,
+      "studentId": 17,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 7.9,
+      "date": "2025-03-19"
+    },
+    {
+      "id": 34,
+      "studentId": 17,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 9.0,
+      "date": "2025-05-21"
+    },
+    {
+      "id": 35,
+      "studentId": 18,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 8.3,
+      "date": "2025-04-29"
+    },
+    {
+      "id": 36,
+      "studentId": 18,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 8.2,
+      "date": "2025-02-08"
+    },
+    {
+      "id": 37,
+      "studentId": 19,
+      "classId": 1,
+      "assessment": "Prova",
+      "score": 9.3,
+      "date": "2025-10-15"
+    },
+    {
+      "id": 38,
+      "studentId": 19,
+      "classId": 1,
+      "assessment": "Trabalho",
+      "score": 5.8,
+      "date": "2025-06-11"
+    },
+    {
+      "id": 39,
+      "studentId": 20,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 8.0,
+      "date": "2025-08-22"
+    },
+    {
+      "id": 40,
+      "studentId": 20,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 6.3,
+      "date": "2025-09-22"
+    },
+    {
+      "id": 41,
+      "studentId": 21,
+      "classId": 1,
+      "assessment": "Prova",
+      "score": 8.1,
+      "date": "2025-06-04"
+    },
+    {
+      "id": 42,
+      "studentId": 21,
+      "classId": 1,
+      "assessment": "Trabalho",
+      "score": 5.8,
+      "date": "2025-08-13"
+    },
+    {
+      "id": 43,
+      "studentId": 22,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 8.8,
+      "date": "2025-02-14"
+    },
+    {
+      "id": 44,
+      "studentId": 22,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 8.0,
+      "date": "2025-07-03"
+    },
+    {
+      "id": 45,
+      "studentId": 23,
+      "classId": 1,
+      "assessment": "Prova",
+      "score": 5.5,
+      "date": "2025-03-23"
+    },
+    {
+      "id": 46,
+      "studentId": 23,
+      "classId": 1,
+      "assessment": "Trabalho",
+      "score": 5.6,
+      "date": "2025-09-14"
+    },
+    {
+      "id": 47,
+      "studentId": 24,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 5.1,
+      "date": "2025-04-03"
+    },
+    {
+      "id": 48,
+      "studentId": 24,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 7.6,
+      "date": "2025-09-20"
+    },
+    {
+      "id": 49,
+      "studentId": 25,
+      "classId": 1,
+      "assessment": "Prova",
+      "score": 8.4,
+      "date": "2025-03-07"
+    },
+    {
+      "id": 50,
+      "studentId": 25,
+      "classId": 1,
+      "assessment": "Trabalho",
+      "score": 8.4,
+      "date": "2025-04-16"
+    },
+    {
+      "id": 51,
+      "studentId": 26,
+      "classId": 2,
+      "assessment": "Prova",
+      "score": 6.7,
+      "date": "2025-11-05"
+    },
+    {
+      "id": 52,
+      "studentId": 26,
+      "classId": 2,
+      "assessment": "Trabalho",
+      "score": 7.5,
+      "date": "2025-01-03"
+    },
+    {
+      "id": 53,
+      "studentId": 27,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 9.1,
+      "date": "2025-07-05"
+    },
+    {
+      "id": 54,
+      "studentId": 27,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 5.1,
+      "date": "2025-07-24"
+    },
+    {
+      "id": 55,
+      "studentId": 28,
+      "classId": 1,
+      "assessment": "Prova",
+      "score": 6.2,
+      "date": "2025-07-10"
+    },
+    {
+      "id": 56,
+      "studentId": 28,
+      "classId": 1,
+      "assessment": "Trabalho",
+      "score": 6.4,
+      "date": "2025-04-05"
+    },
+    {
+      "id": 57,
+      "studentId": 29,
+      "classId": 2,
+      "assessment": "Prova",
+      "score": 7.9,
+      "date": "2025-08-07"
+    },
+    {
+      "id": 58,
+      "studentId": 29,
+      "classId": 2,
+      "assessment": "Trabalho",
+      "score": 7.0,
+      "date": "2025-01-03"
+    },
+    {
+      "id": 59,
+      "studentId": 30,
+      "classId": 3,
+      "assessment": "Prova",
+      "score": 6.5,
+      "date": "2025-07-08"
+    },
+    {
+      "id": 60,
+      "studentId": 30,
+      "classId": 3,
+      "assessment": "Trabalho",
+      "score": 9.8,
+      "date": "2025-06-18"
+    }
+  ],
+  "enrollments": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "classId": 2,
+      "enrolledAt": "2025-10-27"
+    },
+    {
+      "id": 2,
+      "studentId": 2,
+      "classId": 1,
+      "enrolledAt": "2025-05-11"
+    },
+    {
+      "id": 3,
+      "studentId": 3,
+      "classId": 1,
+      "enrolledAt": "2025-10-04"
+    },
+    {
+      "id": 4,
+      "studentId": 4,
+      "classId": 3,
+      "enrolledAt": "2025-04-21"
+    },
+    {
+      "id": 5,
+      "studentId": 5,
+      "classId": 3,
+      "enrolledAt": "2025-03-21"
+    },
+    {
+      "id": 6,
+      "studentId": 6,
+      "classId": 1,
+      "enrolledAt": "2025-02-16"
+    },
+    {
+      "id": 7,
+      "studentId": 7,
+      "classId": 3,
+      "enrolledAt": "2025-09-10"
+    },
+    {
+      "id": 8,
+      "studentId": 8,
+      "classId": 2,
+      "enrolledAt": "2025-02-17"
+    },
+    {
+      "id": 9,
+      "studentId": 9,
+      "classId": 2,
+      "enrolledAt": "2025-09-10"
+    },
+    {
+      "id": 10,
+      "studentId": 10,
+      "classId": 2,
+      "enrolledAt": "2025-07-22"
+    },
+    {
+      "id": 11,
+      "studentId": 11,
+      "classId": 2,
+      "enrolledAt": "2025-04-03"
+    },
+    {
+      "id": 12,
+      "studentId": 12,
+      "classId": 3,
+      "enrolledAt": "2025-09-13"
+    },
+    {
+      "id": 13,
+      "studentId": 13,
+      "classId": 3,
+      "enrolledAt": "2025-07-17"
+    },
+    {
+      "id": 14,
+      "studentId": 14,
+      "classId": 3,
+      "enrolledAt": "2025-05-31"
+    },
+    {
+      "id": 15,
+      "studentId": 15,
+      "classId": 1,
+      "enrolledAt": "2025-06-28"
+    },
+    {
+      "id": 16,
+      "studentId": 16,
+      "classId": 3,
+      "enrolledAt": "2025-03-06"
+    },
+    {
+      "id": 17,
+      "studentId": 17,
+      "classId": 3,
+      "enrolledAt": "2024-11-29"
+    },
+    {
+      "id": 18,
+      "studentId": 18,
+      "classId": 3,
+      "enrolledAt": "2025-01-13"
+    },
+    {
+      "id": 19,
+      "studentId": 19,
+      "classId": 1,
+      "enrolledAt": "2025-10-29"
+    },
+    {
+      "id": 20,
+      "studentId": 20,
+      "classId": 3,
+      "enrolledAt": "2025-04-04"
+    },
+    {
+      "id": 21,
+      "studentId": 21,
+      "classId": 1,
+      "enrolledAt": "2025-06-03"
+    },
+    {
+      "id": 22,
+      "studentId": 22,
+      "classId": 3,
+      "enrolledAt": "2025-07-27"
+    },
+    {
+      "id": 23,
+      "studentId": 23,
+      "classId": 1,
+      "enrolledAt": "2024-11-10"
+    },
+    {
+      "id": 24,
+      "studentId": 24,
+      "classId": 3,
+      "enrolledAt": "2025-02-15"
+    },
+    {
+      "id": 25,
+      "studentId": 25,
+      "classId": 1,
+      "enrolledAt": "2025-07-13"
+    },
+    {
+      "id": 26,
+      "studentId": 26,
+      "classId": 2,
+      "enrolledAt": "2024-11-17"
+    },
+    {
+      "id": 27,
+      "studentId": 27,
+      "classId": 3,
+      "enrolledAt": "2025-10-29"
+    },
+    {
+      "id": 28,
+      "studentId": 28,
+      "classId": 1,
+      "enrolledAt": "2025-03-18"
+    },
+    {
+      "id": 29,
+      "studentId": 29,
+      "classId": 2,
+      "enrolledAt": "2025-09-19"
+    },
+    {
+      "id": 30,
+      "studentId": 30,
+      "classId": 3,
+      "enrolledAt": "2025-03-08"
+    }
+  ]
+}
